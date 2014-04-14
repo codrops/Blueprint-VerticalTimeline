@@ -1,9 +1,9 @@
 {
   "name": "blueprint-vertical-timeline",
-  "version": "1.0.0",
-  "dependencies": [
+  "version": "1.0.1",
+  "dependencies": {
     "font-awesome": "~4.0.3",
     "modernizr": "~2.7.2"
-  ],
+  },
   "main" : "css/component.css"
 }
